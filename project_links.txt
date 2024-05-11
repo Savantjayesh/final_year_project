@@ -4,6 +4,10 @@ https://python.plainenglish.io/top-25-django-projects-with-free-source-code-3a33
 
 https://code-projects.org/voting-system-using-django-framework/
 
+https://github.com/manjurulhoque/django-social-network
+
+https://github.com/Ronik22/Django_Social_Network_App
+
 
 https://code-projects.org/online-food-order-system-using-django/
 
